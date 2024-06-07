@@ -28,7 +28,7 @@ The summary statistics provide a comprehensive overview of Nvidia's stock perfor
 
 #### Nvidia Closing Prices Over Time
 
-![Nvidia Closing Prices Over Time](./nvidia_closing_prices.png)
+![Nvidia Closing Prices Over Time](./plots/nvidia_closing_prices.png)
 
 This line chart illustrates the closing prices of Nvidia's stock over time, revealing a general upward trend and periods of significant volatility.
 
